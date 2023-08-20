@@ -8,15 +8,16 @@ msgstr ""
 "Project-Id-Version: Python 3.12\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-29 00:03+0000\n"
-"PO-Revision-Date: 2018-05-23 16:10+0000\n"
-"Last-Translator: Adrian Liaw <adrianliaw2000@gmail.com>\n"
-"Language-Team: Chinese - TAIWAN (https://github.com/python/python-docs-zh-"
-"tw)\n"
-"Language: zh_TW\n"
+"PO-Revision-Date: 2023-08-20 06:53+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: signal (generated) <http://weblate.example.com/projects/test/"
+"python/signal/>\n"
+"Language: signal\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.18.2\n"
 
 #: ../../library/signal.rst:2
 msgid ":mod:`signal` --- Set handlers for asynchronous events"
@@ -170,9 +171,8 @@ msgstr ":ref:`適用 <availability>`：Unix。"
 msgid ""
 "See the man page :manpage:`sigprocmask(2)` and :manpage:`pthread_sigmask(3)` "
 "for further information."
-msgstr ""
-"更多資訊請見 :manpage:`sigprocmask(2)` 與 :manpage:`pthread_sigmask(3)` 手冊"
-"頁。"
+msgstr "更多資訊請見 :manpage:`sigprocmask(2)` 與 :manpage:`pthread_sigmask(3)` "
+"手冊頁。"
 
 #: ../../library/signal.rst:111
 msgid "The variables defined in the :mod:`signal` module are:"
@@ -498,8 +498,8 @@ msgid ""
 "Raises an :ref:`auditing event <auditing>` ``signal.pthread_kill`` with "
 "arguments ``thread_id``, ``signalnum``."
 msgstr ""
-"引發一個附帶引數 ``thread_id``、``signalnum`` 的\\ :ref:`稽核事件 "
-"<auditing>` ``signal.pthread_kill``。"
+"引發一個附帶引數 ``thread_id``、``signalnum`` 的\\ :ref:`稽核事件 <auditing>`"
+" ``signal.pthread_kill``。"
 
 #: ../../library/signal.rst:437
 msgid "See the man page :manpage:`pthread_kill(3)` for further  information."
@@ -712,8 +712,7 @@ msgstr "更多資訊請見 :manpage:`sigpending(2)` 手冊頁。"
 
 #: ../../library/signal.rst:605
 msgid "See also :func:`pause`, :func:`pthread_sigmask` and :func:`sigwait`."
-msgstr ""
-"另請參閱 :func:`pause`\\ 、\\ :func:`pthread_sigmask` 與 :func:`sigwait`。"
+msgstr "另請參閱 :func:`pause`\\ 、\\ :func:`pthread_sigmask` 與 :func:`sigwait`。"
 
 #: ../../library/signal.rst:612
 msgid ""
@@ -758,8 +757,7 @@ msgstr "更多資訊請見 :manpage:`sigwaitinfo(2)` 手冊頁。"
 
 #: ../../library/signal.rst:646
 msgid "See also :func:`pause`, :func:`sigwait` and :func:`sigtimedwait`."
-msgstr ""
-"另請參閱 :func:`pause`\\ 、\\ :func:`sigwait` 與 :func:`sigtimedwait`。"
+msgstr "另請參閱 :func:`pause`\\ 、\\ :func:`sigwait` 與 :func:`sigtimedwait`。"
 
 #: ../../library/signal.rst:650
 msgid ""
