@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Python 3.12\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-29 00:03+0000\n"
-"PO-Revision-Date: 2023-08-20 06:16+0000\n"
-"Last-Translator: Weblate Admin <root@weblate.com>\n"
+"PO-Revision-Date: 2023-08-20 06:53+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Ossetian <http://weblate.example.com/projects/test/python/os/>"
 "\n"
 "Language: os\n"
@@ -689,8 +689,7 @@ msgstr ""
 msgid ""
 "Raises an :ref:`auditing event <auditing>` ``os.putenv`` with arguments "
 "``key``, ``value``."
-msgstr ""
-"引發一個附帶引數 ``key``、``value`` 的\\ :ref:`稽核事件 <auditing>` ``os."
+msgstr "引發一個附帶引數 ``key``、``value`` 的\\ :ref:`稽核事件 <auditing>` ``os."
 "putenv``。"
 
 #: ../../library/os.rst:571
@@ -912,8 +911,7 @@ msgstr ""
 msgid ""
 "Raises an :ref:`auditing event <auditing>` ``os.unsetenv`` with argument "
 "``key``."
-msgstr ""
-"引發一個附帶引數 ``key`` 的\\ :ref:`稽核事件 <auditing>` ``os.unsetenv``。"
+msgstr "引發一個附帶引數 ``key`` 的\\ :ref:`稽核事件 <auditing>` ``os.unsetenv``。"
 
 #: ../../library/os.rst:809
 msgid "The function is now always available and is also available on Windows."
@@ -1229,8 +1227,7 @@ msgstr ""
 msgid ""
 "Raises an :ref:`auditing event <auditing>` ``os.truncate`` with arguments "
 "``fd``, ``length``."
-msgstr ""
-"引發一個附帶引數 ``fd``、``length`` 的\\ :ref:`稽核事件 <auditing>` ``os."
+msgstr "引發一個附帶引數 ``fd``、``length`` 的\\ :ref:`稽核事件 <auditing>` ``os."
 "truncate``。"
 
 #: ../../library/os.rst:1099 ../../library/os.rst:3373
@@ -1245,8 +1242,7 @@ msgstr ""
 
 #: ../../library/os.rst:1108
 msgid "See also :func:`set_blocking` and :meth:`socket.socket.setblocking`."
-msgstr ""
-"另請參閱 :func:`set_blocking` 與 :meth:`socket.socket.setblocking`\\ 。"
+msgstr "另請參閱 :func:`set_blocking` 與 :meth:`socket.socket.setblocking`\\ 。"
 
 #: ../../library/os.rst:1115 ../../library/os.rst:1593
 msgid "On Windows, this function is limited to pipes."
@@ -1723,8 +1719,7 @@ msgstr ""
 
 #: ../../library/os.rst:1586
 msgid "See also :func:`get_blocking` and :meth:`socket.socket.setblocking`."
-msgstr ""
-"另請參閱 :func:`get_blocking` 與 :meth:`socket.socket.setblocking`\\ 。"
+msgstr "另請參閱 :func:`get_blocking` 與 :meth:`socket.socket.setblocking`\\ 。"
 
 #: ../../library/os.rst:1604
 msgid ""
@@ -2074,8 +2069,7 @@ msgstr ""
 msgid ""
 "Raises an :ref:`auditing event <auditing>` ``os.chdir`` with argument "
 "``path``."
-msgstr ""
-"引發一個附帶引數 ``path`` 的\\ :ref:`稽核事件 <auditing>` ``os.chdir``。"
+msgstr "引發一個附帶引數 ``path`` 的\\ :ref:`稽核事件 <auditing>` ``os.chdir``。"
 
 #: ../../library/os.rst:1950
 msgid ""
@@ -2146,8 +2140,7 @@ msgstr ""
 msgid ""
 "Raises an :ref:`auditing event <auditing>` ``os.chflags`` with arguments "
 "``path``, ``flags``."
-msgstr ""
-"引發一個附帶引數 ``path``、``flags`` 的\\ :ref:`稽核事件 <auditing>` ``os."
+msgstr "引發一個附帶引數 ``path``、``flags`` 的\\ :ref:`稽核事件 <auditing>` ``os."
 "chflags``。"
 
 #: ../../library/os.rst:1982
@@ -2385,8 +2378,7 @@ msgstr ""
 msgid ""
 "Raises an :ref:`auditing event <auditing>` ``os.listdir`` with argument "
 "``path``."
-msgstr ""
-"引發一個附帶引數 ``path`` 的\\ :ref:`稽核事件 <auditing>` ``os.listdir``。"
+msgstr "引發一個附帶引數 ``path`` 的\\ :ref:`稽核事件 <auditing>` ``os.listdir``。"
 
 #: ../../library/os.rst:2184
 msgid "To encode ``str`` filenames to ``bytes``, use :func:`~os.fsencode`."
@@ -2462,8 +2454,7 @@ msgstr ""
 msgid ""
 "Raises an :ref:`auditing event <auditing>` ``os.listmounts`` with argument "
 "``volume``."
-msgstr ""
-"引發一個附帶引數 ``volume`` 的\\ :ref:`稽核事件 <auditing>` ``os."
+msgstr "引發一個附帶引數 ``volume`` 的\\ :ref:`稽核事件 <auditing>` ``os."
 "listmounts``。"
 
 #: ../../library/os.rst:2247
@@ -2751,8 +2742,7 @@ msgstr ""
 msgid ""
 "Raises an :ref:`auditing event <auditing>` ``os.remove`` with arguments "
 "``path``, ``dir_fd``."
-msgstr ""
-"引發一個附帶引數 ``path``、``dir_fd`` 的\\ :ref:`稽核事件 <auditing>` ``os."
+msgstr "引發一個附帶引數 ``path``、``dir_fd`` 的\\ :ref:`稽核事件 <auditing>` ``os."
 "remove``。"
 
 #: ../../library/os.rst:2536
@@ -2857,8 +2847,7 @@ msgstr ""
 msgid ""
 "Raises an :ref:`auditing event <auditing>` ``os.rmdir`` with arguments "
 "``path``, ``dir_fd``."
-msgstr ""
-"引發一個附帶引數 ``path``、``dir_fd`` 的\\ :ref:`稽核事件 <auditing>` ``os."
+msgstr "引發一個附帶引數 ``path``、``dir_fd`` 的\\ :ref:`稽核事件 <auditing>` ``os."
 "rmdir``。"
 
 #: ../../library/os.rst:2632 ../../library/os.rst:3389
@@ -2900,8 +2889,7 @@ msgstr ""
 msgid ""
 "Raises an :ref:`auditing event <auditing>` ``os.scandir`` with argument "
 "``path``."
-msgstr ""
-"引發一個附帶引數 ``path`` 的\\ :ref:`稽核事件 <auditing>` ``os.scandir``。"
+msgstr "引發一個附帶引數 ``path`` 的\\ :ref:`稽核事件 <auditing>` ``os.scandir``。"
 
 #: ../../library/os.rst:2669
 msgid ""
@@ -3701,8 +3689,8 @@ msgid ""
 "Raises an :ref:`auditing event <auditing>` ``os.symlink`` with arguments "
 "``src``, ``dst``, ``dir_fd``."
 msgstr ""
-"引發一個附帶引數 ``src``、``dst``、``dir_fd`` 的\\ :ref:`稽核事件 "
-"<auditing>` ``os.symlink``。"
+"引發一個附帶引數 ``src``、``dst``、``dir_fd`` 的\\ :ref:`稽核事件 <auditing>`"
+" ``os.symlink``。"
 
 #: ../../library/os.rst:3340
 msgid ""
@@ -3891,8 +3879,8 @@ msgid ""
 "Raises an :ref:`auditing event <auditing>` ``os.walk`` with arguments "
 "``top``, ``topdown``, ``onerror``, ``followlinks``."
 msgstr ""
-"引發一個附帶引數 ``top``、``topdown``、``onerror``、``followlinks`` 的\\ :"
-"ref:`稽核事件 <auditing>` ``os.walk``。"
+"引發一個附帶引數 ``top``、``topdown``、``onerror``、``followlinks`` 的\\ "
+":ref:`稽核事件 <auditing>` ``os.walk``。"
 
 #: ../../library/os.rst:3527
 msgid ""
@@ -3938,8 +3926,9 @@ msgid ""
 "Raises an :ref:`auditing event <auditing>` ``os.fwalk`` with arguments "
 "``top``, ``topdown``, ``onerror``, ``follow_symlinks``, ``dir_fd``."
 msgstr ""
-"引發一個附帶引數 ``top``、``topdown``、``onerror``、``follow_symlinks``、"
-"``dir_fd`` 的\\ :ref:`稽核事件 <auditing>` ``os.fwalk``。"
+"引發一個附帶引數 "
+"``top``、``topdown``、``onerror``、``follow_symlinks``、``dir_fd`` 的\\ "
+":ref:`稽核事件 <auditing>` ``os.fwalk``。"
 
 #: ../../library/os.rst:3595
 msgid "Added support for :class:`bytes` paths."
@@ -4089,8 +4078,8 @@ msgid ""
 "Raises an :ref:`auditing event <auditing>` ``os.getxattr`` with arguments "
 "``path``, ``attribute``."
 msgstr ""
-"引發一個附帶引數 ``path``、``attribute`` 的\\ :ref:`稽核事件 <auditing>` "
-"``os.getxattr``。"
+"引發一個附帶引數 ``path``、``attribute`` 的\\ :ref:`稽核事件 <auditing>` ``os"
+".getxattr``。"
 
 #: ../../library/os.rst:3760 ../../library/os.rst:3792
 #: ../../library/os.rst:3817
@@ -4109,8 +4098,7 @@ msgstr ""
 msgid ""
 "Raises an :ref:`auditing event <auditing>` ``os.listxattr`` with argument "
 "``path``."
-msgstr ""
-"引發一個附帶引數 ``path`` 的\\ :ref:`稽核事件 <auditing>` ``os.listxattr``。"
+msgstr "引發一個附帶引數 ``path`` 的\\ :ref:`稽核事件 <auditing>` ``os.listxattr``。"
 
 #: ../../library/os.rst:3782
 msgid ""
@@ -4125,8 +4113,8 @@ msgid ""
 "Raises an :ref:`auditing event <auditing>` ``os.removexattr`` with arguments "
 "``path``, ``attribute``."
 msgstr ""
-"引發一個附帶引數 ``path``、``attribute`` 的\\ :ref:`稽核事件 <auditing>` "
-"``os.removexattr``。"
+"引發一個附帶引數 ``path``、``attribute`` 的\\ :ref:`稽核事件 <auditing>` ``os"
+".removexattr``。"
 
 #: ../../library/os.rst:3798
 msgid ""
@@ -4151,8 +4139,8 @@ msgid ""
 "Raises an :ref:`auditing event <auditing>` ``os.setxattr`` with arguments "
 "``path``, ``attribute``, ``value``, ``flags``."
 msgstr ""
-"引發一個附帶引數 ``path``、``attribute``、``value``、``flags`` 的\\ :ref:`稽"
-"核事件 <auditing>` ``os.setxattr``。"
+"引發一個附帶引數 ``path``、``attribute``、``value``、``flags`` 的\\ :ref:`"
+"稽核事件 <auditing>` ``os.setxattr``。"
 
 #: ../../library/os.rst:3823
 msgid ""
@@ -4228,8 +4216,7 @@ msgstr ""
 msgid ""
 "Raises an :ref:`auditing event <auditing>` ``os.add_dll_directory`` with "
 "argument ``path``."
-msgstr ""
-"引發一個附帶引數 ``path`` 的\\ :ref:`稽核事件 <auditing>` ``os."
+msgstr "引發一個附帶引數 ``path`` 的\\ :ref:`稽核事件 <auditing>` ``os."
 "add_dll_directory``。"
 
 #: ../../library/os.rst:3883
@@ -4506,8 +4493,7 @@ msgstr "另請參閱 :func:`signal.pthread_kill`\\ 。"
 msgid ""
 "Raises an :ref:`auditing event <auditing>` ``os.kill`` with arguments "
 "``pid``, ``sig``."
-msgstr ""
-"引發一個附帶引數 ``pid``、``sig`` 的\\ :ref:`稽核事件 <auditing>` ``os."
+msgstr "引發一個附帶引數 ``pid``、``sig`` 的\\ :ref:`稽核事件 <auditing>` ``os."
 "kill``。"
 
 #: ../../library/os.rst:4168
@@ -4522,8 +4508,7 @@ msgstr ""
 msgid ""
 "Raises an :ref:`auditing event <auditing>` ``os.killpg`` with arguments "
 "``pgid``, ``sig``."
-msgstr ""
-"引發一個附帶引數 ``pgid``、``sig`` 的\\ :ref:`稽核事件 <auditing>` ``os."
+msgstr "引發一個附帶引數 ``pgid``、``sig`` 的\\ :ref:`稽核事件 <auditing>` ``os."
 "killpg``。"
 
 #: ../../library/os.rst:4187
@@ -4984,16 +4969,17 @@ msgid ""
 "Raises an :ref:`auditing event <auditing>` ``os.startfile`` with arguments "
 "``path``, ``operation``."
 msgstr ""
-"引發一個附帶引數 ``path``、``operation`` 的\\ :ref:`稽核事件 <auditing>` "
-"``os.startfile``。"
+"引發一個附帶引數 ``path``、``operation`` 的\\ :ref:`稽核事件 <auditing>` ``os"
+".startfile``。"
 
 #: ../../library/os.rst:4549
 msgid ""
 "Raises an :ref:`auditing event <auditing>` ``os.startfile/2`` with arguments "
 "``path``, ``operation``, ``arguments``, ``cwd``, ``show_cmd``."
 msgstr ""
-"引發一個附帶引數 ``path``、``operation``、``arguments``、``cwd``、"
-"``show_cmd`` 的\\ :ref:`稽核事件 <auditing>` ``os.startfile/2``。"
+"引發一個附帶引數 "
+"``path``、``operation``、``arguments``、``cwd``、``show_cmd`` 的\\ :ref:`"
+"稽核事件 <auditing>` ``os.startfile/2``。"
 
 #: ../../library/os.rst:4553
 msgid ""
@@ -5046,8 +5032,7 @@ msgstr ""
 msgid ""
 "Raises an :ref:`auditing event <auditing>` ``os.system`` with argument "
 "``command``."
-msgstr ""
-"引發一個附帶引數 ``command`` 的\\ :ref:`稽核事件 <auditing>` ``os.system``。"
+msgstr "引發一個附帶引數 ``command`` 的\\ :ref:`稽核事件 <auditing>` ``os.system``。"
 
 #: ../../library/os.rst:4593
 msgid ""
