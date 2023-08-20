@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Python 3.12\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-17 17:39+0800\n"
-"PO-Revision-Date: 2023-08-20 06:52+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2023-08-20 07:16+0000\n"
+"Last-Translator: Weblate Admin <root@weblate.com>\n"
 "Language-Team: argparse (generated) <http://weblate.example.com/projects/"
 "test/python/argparse/>\n"
 "Language: argparse\n"
@@ -52,7 +52,7 @@ msgstr ""
 
 #: ../../library/argparse.rst:30
 msgid "Core Functionality"
-msgstr ""
+msgstr "核心功能"
 
 #: ../../library/argparse.rst:32
 msgid ""
