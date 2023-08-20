@@ -22,7 +22,7 @@ msgstr ""
 msgid ""
 ":mod:`argparse` --- Parser for command-line options, arguments and sub-"
 "commands"
-msgstr ""
+msgstr "解析 argument 的 Python 模組"
 
 #: ../../library/argparse.rst:12
 msgid "**Source code:** :source:`Lib/argparse.py`"
